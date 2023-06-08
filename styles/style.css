@@ -1,0 +1,27 @@
+body {
+  background: green;
+  text-align: center;
+}
+
+h1 {
+  color: rgb(98, 209, 98);
+}
+
+a {
+  color: khaki;
+  padding: 7px;
+}
+
+p {
+  color: lavenderblush;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 520px;
+}
+
+.container {
+  margin-top: 32px;
+}
